@@ -1,0 +1,47 @@
+{
+    "Domain": [
+               "Web Application",
+               "Mobile",
+               "Digital",
+               "Banking",
+               "ContentAndOnline",
+               "CSP",
+               "IB"
+               ],
+    "Skills Set": [
+                  "Java",
+                  "VB",
+                  "AngularJS",
+                  "JSON",
+                  "ReactJS",
+                  "SwiftCode",
+                  "LISA",
+                  "JavaScript"
+                  ],
+    "Tools Set": [
+                 "ALM",
+                 "TOSCA",
+                 "Selenium",
+                 "UFT",
+                 "Cucumber",
+                 "Eggplant",
+                 "Jira",
+                 "XCUITest",
+                 "Espresso",
+                 "Bamboo",
+                 "uDeploy",
+                 "Protractor",
+                 "Seetest"
+                 ],
+    "Certifications": [
+                      "TOSCA AS1",
+                      "TOSCA AS2",
+                      "ISTQB Basic",
+                      "ISTQB Advanced",
+                      "CPMAT",
+                      "CSM",
+                      "Java",
+                      "Oracle"
+                      ],
+    
+}
